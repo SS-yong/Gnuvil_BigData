@@ -24,8 +24,7 @@
 
 #### 2022-2학기
 - 강좌 : <a href="https://www.youtube.com/watch?v=J6wehCO_c58&list=PLJN246lAkhQjoU0C4v8FgtbjOIXxSs_4Q" >혼자 공부하는 머신러닝+딥러닝(박해선)</a>
-- 교재 : 혼자 공부하는 머신러닝+딥러닝(박해선)
-<img src="https://image.aladin.co.kr/product/25793/20/cover500/k052736813_2.jpg"  width="200" height="300">
+- 교재 : 혼자 공부하는 머신러닝+딥러닝(박해선) <img src="https://image.aladin.co.kr/product/25793/20/cover500/k052736813_2.jpg"  width="200" height="300">
 <br>
 - 실습 코드 : <a href="https://github.com/SS-yong/Gnuvil/tree/main/2022-2%20Gnuvil">2022-2 Gnuvil</a>
 
