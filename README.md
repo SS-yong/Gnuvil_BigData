@@ -27,12 +27,14 @@
 - 교재 : 혼자 공부하는 머신러닝+딥러닝(박해선)
 <img src="https://image.aladin.co.kr/product/25793/20/cover500/k052736813_2.jpg"  width="200" height="300">
 - 실습 코드 : <a href="https://github.com/SS-yong/Gnuvil/tree/main/2022-2%20Gnuvil">2022-2 Gnuvil</a>
+
 <br>
 
 #### 2023-winter
 - 교재 : 핸즈온 머신러닝(오렐리앙 제롱)
 <img src="https://image.aladin.co.kr/product/23767/71/cover500/k532639960_1.jpg"  width="200" height="300">
 - 실습 코드 : <a href="https://github.com/SS-yong/Gnuvil/tree/main/2023-winter%20Gnuvil">2023-winter Gnuvil</a>
+
 <br>
 
 #### 2023-1학기
